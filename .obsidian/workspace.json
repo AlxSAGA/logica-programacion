@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-retosProgramacion/01-Facil/01-fizzbuzz/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,8 +182,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a4b1007b9c57fff8",
+  "active": "9941bac6ec0fda39",
   "lastOpenFiles": [
+    "01-retosProgramacion/01-Facil/fizzbuzz.md",
+    "01-retosProgramacion/01-Facil/README.md",
+    "01-retosProgramacion/01-Facil/fizzbuzz.py",
     "01-retosProgramacion/01-Facil/01-fizzbuzz/README.md",
     "README.md",
     "01-retosProgramacion/01-Facil/01-fizzbuzz/fizzbuzz.py",
@@ -211,8 +214,6 @@
     "01-DockerLabs/02-Facil/42-Winterfell.md",
     "Sin título.md",
     "01-DockerLabs/02-Facil/41-Picadilly.md",
-    "01-DockerLabs/02-Facil/40-Los40Ladrones.md",
-    "01-DockerLabs/02-Facil/39-Pressenter.md",
     "LICENSE",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
