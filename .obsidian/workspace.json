@@ -184,6 +184,10 @@
   },
   "active": "9941bac6ec0fda39",
   "lastOpenFiles": [
+    "01-retosProgramacion/02-Medio/01-anagrama/README.md",
+    "01-retosProgramacion/02-Medio/01-anagrama/anagrama.py",
+    "01-retosProgramacion/02-Medio/01-anagrama",
+    "01-retosProgramacion/02-Medio/anagrama",
     "01-retosProgramacion/01-Facil/01-fizzbuzz/README.md",
     "01-retosProgramacion/01-Facil/02-areaPoligono/README.md",
     "01-retosProgramacion/01-Facil/02-areaPoligono/area_poligono.py",
@@ -215,10 +219,6 @@
     "01-DockerLabs/02-Facil/45-StellaJWT.md",
     "01-DockerLabs/02-Facil/44-Paradise.md",
     "01-DockerLabs/02-Facil/43-Pntopntobarra.md",
-    "01-DockerLabs/02-Facil/42-Winterfell.md",
-    "LICENSE",
-    "01-DockerLabs/02-Facil",
-    "01-DockerLabs/01-MyFacil",
-    "02-Vulnhub"
+    "LICENSE"
   ]
 }
