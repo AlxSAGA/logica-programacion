@@ -36,7 +36,7 @@ Ejercicios implementados en Python para fortalecer lógica de programación, alg
 ## 🛠️ Cómo Ejecutar las Soluciones
 ```bash
 # Clonar repositorio
-git clone https://github.com/AlxSAGA/logica-programacion-python.git
+git clone https://github.com/AlxSAGA/logica-programacion.git
 
 # Navegar al directorio de retos
 cd < directorio >
