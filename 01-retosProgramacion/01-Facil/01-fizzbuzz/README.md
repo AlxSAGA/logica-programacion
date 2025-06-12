@@ -13,7 +13,7 @@
 ### **Título del Proyecto**
 `Solución al Reto FizzBuzz de MoureDev en Python`
 
-#### **1. Descripción del Reto**
+#### **1. Descripcion del Reto**
 Breve explicación del objetivo:
 ```
 Programa que muestra números en un rango determinado:
@@ -22,7 +22,7 @@ Programa que muestra números en un rango determinado:
 - Múltiplos de 3 y 5 → "FIZZBUZZ"
 ```
 
-#### **2. Características Implementadas**
+#### **2. Caracteristicas Implementadas**
 Lista de funcionalidades clave:
 ```
 ✔️ Sistema interactivo con menú de opciones
