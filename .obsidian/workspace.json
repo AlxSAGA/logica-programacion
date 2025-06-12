@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-retosProgramacion/01-Facil/01-fizzbuzz/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "98ffdcb62b2d6f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-retosProgramacion/01-Facil/01-fizzbuzz/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,14 +197,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9941bac6ec0fda39",
+  "active": "0d8acdc77695e87a",
   "lastOpenFiles": [
+    "01-retosProgramacion/01-Facil/01-fizzbuzz/README.md",
+    "README.md",
+    "01-retosProgramacion/01-Facil/02-areaPoligono/README.md",
+    "01-retosProgramacion/01-Facil/02-areaPoligono/figura_area.py",
     "01-retosProgramacion/02-Medio/01-anagrama/README.md",
     "01-retosProgramacion/02-Medio/01-anagrama/anagrama.py",
     "01-retosProgramacion/02-Medio/01-anagrama",
     "01-retosProgramacion/02-Medio/anagrama",
-    "01-retosProgramacion/01-Facil/01-fizzbuzz/README.md",
-    "01-retosProgramacion/01-Facil/02-areaPoligono/README.md",
     "01-retosProgramacion/01-Facil/02-areaPoligono/area_poligono.py",
     "01-retosProgramacion/01-Facil/02-areaPoligono",
     "01-retosProgramacion/01-Facil/01-fizzbuzz/fizzbuzz.py",
@@ -198,7 +215,6 @@
     "01-retosProgramacion/01-Facil/fizzbuzz.md",
     "01-retosProgramacion/01-Facil/README.md",
     "01-retosProgramacion/01-Facil/fizzbuzz.py",
-    "README.md",
     "01-DockerLabs/03-Media/09-Pingpong.md",
     "00-Template.md",
     "01-DockerLabs/03-Media/08-Hackzones.md",
@@ -217,8 +233,6 @@
     "01-DockerLabs/02-Facil/47-Elevator.md",
     "01-DockerLabs/02-Facil/46-Dockerlabs.md",
     "01-DockerLabs/02-Facil/45-StellaJWT.md",
-    "01-DockerLabs/02-Facil/44-Paradise.md",
-    "01-DockerLabs/02-Facil/43-Pntopntobarra.md",
-    "LICENSE"
+    "01-DockerLabs/02-Facil/44-Paradise.md"
   ]
 }
