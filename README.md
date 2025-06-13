@@ -16,10 +16,11 @@ Ejercicios implementados en Python para fortalecer lógica de programación, alg
 
 ## 📊 Tabla de mis Progreso (Retos Completados)
 
-| # Reto | Nombre del Reto                                                | Dificultad | Solución                                                   | Estado | Fecha       |
-| ------ | -------------------------------------------------------------- | ---------- | ---------------------------------------------------------- | ------ | ----------- |
-| 01     | [Fizz Buzz](https://retosdeprogramacion.com/semanales2023)     | ⭐          | [solución](01-retosProgramacion/01-fizzbuzz/README.md)     | ✅      | 9 Jun 2025  |
-| 02     | [Area Poligono](https://retosdeprogramacion.com/semanales2023) | ⭐          | [solución](01-retosProgramacion/02-areaPoligono/README.md) | ✅      | 11 Jun 2025 |
+| # Reto | Nombre del Reto                                                      | Dificultad | Solución                                                         | Estado | Fecha       |
+| ------ | -------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------- | ------ | ----------- |
+| 01     | [Fizz Buzz](https://retosdeprogramacion.com/semanales2023)           | ⭐          | [solución](01-retosProgramacion/01-fizzbuzz/README.md)           | ✅      | 9 Jun 2025  |
+| 02     | [Area Poligono](https://retosdeprogramacion.com/semanales2023)       | ⭐          | [solución](01-retosProgramacion/02-areaPoligono/README.md)       | ✅      | 11 Jun 2025 |
+| 03     | [Invirtiendo cadenas](https://retosdeprogramacion.com/semanales2023) | ⭐          | [solución](01-retosProgramacion/03-invirtiendoCadenas/README.md) | ✅      | 12 Jun 2025 |
 
 **Leyenda:**  
 ✅ = Completado  
@@ -34,7 +35,7 @@ Ejercicios implementados en Python para fortalecer lógica de programación, alg
 - [ ] Manejo de excepciones
 - [ ] Optimización de código
 
-## 🛠️ Cómo Ejecutar las Soluciones
+## 🛠️ Como Ejecutar las Soluciones
 ```bash
 # Clonar repositorio
 git clone https://github.com/AlxSAGA/logica-programacion.git
